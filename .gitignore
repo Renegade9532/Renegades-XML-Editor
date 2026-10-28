@@ -1,0 +1,9 @@
+bin/
+obj/
+Release*/
+*.exe
+*.zip
+*.pdb
+.tools/
+CodeWalker-source/
+*.png
